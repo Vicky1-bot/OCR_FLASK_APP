@@ -15,6 +15,6 @@ A simple flask app that takes an image as input and returns the text within it.
 
 ## Screenshots
 
-![Alt text](/static/screenshots/web app.png?raw=true )
+![Alt text](/static/screenshots/web%20app.png?raw=true )
 ![Alt text](/static/screenshots/predicting1.png?raw=true )
 ![Alt text](/static/screenshots/predicting2.png?raw=true )
